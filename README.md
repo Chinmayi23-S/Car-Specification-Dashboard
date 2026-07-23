@@ -42,10 +42,9 @@ Handled missing values where appropriate
 KPIs
 Total Cars
 Total Manufacturers
-Median Price
+Average Price
 Average Engine Power
 Extreme Performance Car
-Highest Torque Vehicle
 
 ### Visualizations
 Average Price by Manufacturer
@@ -59,11 +58,9 @@ Manufacturer
 Fuel Type
 Body Type
 Performance Category
-Seating Capacity
 Transmission
 
-### Tools Used
-Microsoft Excel 365
+### Excel Features Used
 PivotTables
 PivotCharts
 Slicers
